@@ -1,6 +1,6 @@
 # DRoT-6-UNiTED
 
-Preliminary Version of DRoT#6.
+Final Version of DRoT#6.
 
 In this repository, you can find the Multi-temporal microgrid load and generation balancing (without grid connection)
 
